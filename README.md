@@ -77,7 +77,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=marcheluki&count_private=true&theme=material-palenight&border_radius=20)
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcheluki&layout=compact&show_icons=true&theme=material-palenight&border_radius=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcheluki&layout=compact&theme=material-palenight&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--  End Stats Cards -->
 
