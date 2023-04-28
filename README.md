@@ -1,6 +1,6 @@
 <h1 style="color: #B2AC88;"> ☆👩🏻‍💻 Marcela De La Rosa🎧☆ </h1>
 
-![nombreBanner](https://user-images.githubusercontent.com/117956210/235100787-9799353c-74df-43ec-9523-4491f83310d3.gif)
+![banerDelgadoNombre](https://user-images.githubusercontent.com/117956210/235098657-475496bb-f55c-4b6f-8099-886fa81f77cb.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
     Hello there! I am a software engineering student currently pursuing a professional certificate. My technical skills include proficiency in lenguages and tools such as Python, C++, Go, R, MATLAB, Canva, Arduino, HTML, CSS and a few others. I am also a quick learner with strong problem-solving skills. While I am new to the tech industry, I have a deep passion and dicipline for learning and exploring the field, which is why I am a great team player and leader who enjoys collaborating with others. I am excited to gain more experience in the tech industry and contribute to meaningful projects, so follow me on my journey!
