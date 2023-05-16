@@ -72,14 +72,7 @@
 <!-- Begin Stats Cards -->
 <div class="stats" align="center" style="color: #9f60cc">
 
-![Marces's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcheluki&theme=material-palenight&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=marcheluki&count_private=true&theme=material-palenight&border_radius=20)
-    
-<!-- compact programming languages layout -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcheluki&layout=compact&theme=material-palenight&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<!--  End Stats Cards -->
 
 ---
 <!-- Begin Footer -->
