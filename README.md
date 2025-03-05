@@ -3,7 +3,7 @@
 ![banerDelgadoNombreskinny](https://user-images.githubusercontent.com/117956210/235099770-e8ea82dd-4309-4b86-92aa-603fea64439c.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
-  Hello there! I am a software engineering student currently pursuing my Computer Science and Technology B.S. @ Tecnologico de Monterrey. My technical skills include proficiency in lenguages and tools such as Python, C++, Go, R, SQL, MongoDB, HTML, CSS, React and a few others. I am also a quick learner with strong problem-solving skills. While I am new to the tech industry, I have a deep passion and dicipline for learning and exploring, which is why I am a great team player and leader who enjoys collaborating with others. I am excited to gain more experience in the tech industry and contribute to meaningful projects, so follow me on my journey and browse my projects!
+  Hello there! I am a software engineering student currently pursuing my Computer Science and Technology B.S. @ Tecnologico de Monterrey. My technical skills include proficiency in lenguages and tools such as Python, C++, Go, R, SQL, Java, MongoDB, HTML, CSS, React and a few others. I am also a quick learner with strong problem-solving skills. While I am new to the tech industry, I have a deep passion and dicipline for learning and exploring, which is why I am a great team player and leader who enjoys collaborating with others. I am excited to gain more experience in the tech industry and contribute to meaningful projects, so follow me on my journey and browse my projects!
 <br>
 <br>
 <div align="center">
