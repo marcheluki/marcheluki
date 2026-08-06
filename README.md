@@ -1,84 +1,153 @@
-<h1 style="color: #B2AC88;"> ☆👩🏻‍💻 Marcela De La Rosa🎧☆ </h1>
-
-![banerDelgadoNombreskinny](https://user-images.githubusercontent.com/117956210/235099770-e8ea82dd-4309-4b86-92aa-603fea64439c.gif)
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
-  Hello there! I am a software engineering student currently pursuing my Computer Science and Technology B.S. @ Tecnologico de Monterrey. My technical skills include proficiency in lenguages and tools such as Python, C++, Go, R, SQL, Java, MongoDB, HTML, CSS, React and a few others. I am also a quick learner with strong problem-solving skills. While I am new to the tech industry, I have a deep passion and dicipline for learning and exploring, which is why I am a great team player and leader who enjoys collaborating with others. I am excited to gain more experience in the tech industry and contribute to meaningful projects, so follow me on my journey and browse my projects!
-<br>
-<br>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=marcheluki&color=blueviolet&style=for-the-badge&label=PROFILE+VISITS)
-  
-[Email Me](mailto:marcelabeatrizdm@gmail.com)
-</div>
-</p>    
-<br>
-<!-- Languages and Tools -->
+# Hi, I'm Marcela 👩🏻‍💻
 
-<h2 style="color: #9f60cc">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>   
-<!-- Icons Resources -->
-<div align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
-  </a>
-  <a href="https://la.mathworks.com/help/?s_tid=mlh_sn_help" target="_blank" rel="noreferrer">
-      <img  alt="Matlab" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img  alt="arduino" height="50px" style="padding-right:10px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-      <img  alt="R" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-      <img  alt="Go" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-</div>
-<br>
+### Software Engineer
+
+I build full-stack applications, cloud-native systems, and developer tools.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcela_de_la_Rosa-6C63A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcela-de-la-rosa/)
+[![Email](https://img.shields.io/badge/Email-marceladlrosaa%40gmail.com-8B6FAF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marceladlrosaa@gmail.com)
+
 <br>
 
-<!-- Statistics -->
+![Profile visits](https://komarev.com/ghpvc/?username=marcheluki&color=8B6FAF&style=for-the-badge&label=PROFILE+VISITS)
 
-<h2 style="color: #9f60cc">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-<!-- Begin Stats Cards -->
-<div class="stats" align="center" style="color: #9f60cc">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=marcheluki&count_private=true&theme=material-palenight&border_radius=20)
+</div>
 
 ---
-<!-- Begin Footer -->
-<div class="footer" align="center" style="margin:15px;">
-<!--    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
-    </a>-->
-    <a href="mailto:marcelabeatrizdm@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
+
+## About me
+
+I'm a recent **Software Engineering graduate from Tec de Monterrey** and a former **Amazon Software Engineer Intern** based in Guadalajara, Mexico.
+
+My experience spans frontend and backend development, cloud infrastructure, databases, CI/CD automation, testing, debugging, and developer tooling. I enjoy working across the complete software lifecycle—from defining requirements and designing a solution to implementation, deployment, and continuous improvement.
+
+- 💻 Built and shipped production TypeScript features at Amazon.
+- ☁️ Worked with AWS, Oracle Cloud, Docker, Kubernetes, and Terraform.
+- 🧠 Built compiler tooling, microservices, client-server systems, and interactive applications.
+- 🌍 Completed a semester abroad at KTH Royal Institute of Technology in Stockholm.
+
+---
+
+## Featured projects
+
+### ☁️ [Task Flow — Cloud-Native Project Management Platform](https://github.com/adpadillar/oci-telegram-bot)
+
+A task and sprint management platform combining a React interface, Spring Boot backend, Telegram integration, and Oracle Autonomous Database.
+
+- Co-led a five-person Oracle-sponsored team as Project Manager.
+- Defined 15 functional requirements, user stories, acceptance criteria, and a six-stage delivery plan.
+- Contributed to Docker, Kubernetes, Terraform, CI/CD, structured logging, and automated testing.
+- The project included Playwright end-to-end testing and OWASP ZAP security testing.
+
+`React` `Java` `Spring Boot` `REST APIs` `Docker` `Kubernetes` `Terraform` `Oracle Cloud`
+
+---
+
+### 🧩 [LLM Docker Microservices](https://github.com/Pablo389/llm-docker-microservices)
+
+A containerized application separating authentication, LLM chat, frontend, and database functionality into independently deployable services.
+
+- Implemented JWT authentication, bcrypt password hashing, and protected endpoints.
+- Used separate PostgreSQL databases and environment-based secrets.
+- Built and ran the complete system through Docker Compose.
+
+`Python` `FastAPI` `React` `PostgreSQL` `JWT` `Docker Compose`
+
+---
+
+### ⚙️ [Triton GPU Kernel Validator](https://github.com/adpadillar/triton-pipeline)
+
+A compiler front end for validating a restricted Triton/Python GPU-kernel language.
+
+- Implemented a Flex lexical analyzer and Bison LALR(1) parser.
+- Added symbol-table management and line-aware lexical and syntax diagnostics.
+- Built GCC/Make/Bash regression testing for 10 valid and 10 intentionally malformed kernels.
+
+`C` `Flex` `Bison` `Bash` `GNU Make` `Compiler Design`
+
+---
+
+### 🎮 [Multi-Agent Simulation Platform](https://github.com/v3gaaa/multiagentes)
+
+A real-time simulation integrating drones, fixed cameras, security agents, object detection, and client-server communication.
+
+- Connected Python event processing with Unity and C# components.
+- Optimized state machines, object pooling, pathing, and message handling.
+- Sustained 30 FPS at 1080p while reducing CPU utilization by approximately 25%.
+
+`Unity` `C#` `Python` `YOLO` `Client–Server Systems`
+
+---
+
+## Technical toolbox
+
+```text
+Languages        TypeScript · JavaScript · Python · Java · C · C++ · C# · Go · SQL
+Frontend         React · HTML · CSS · Component-driven UI
+Backend          Spring Boot · FastAPI · Node.js · Express · REST APIs
+Cloud            AWS · Oracle Cloud Infrastructure
+Infrastructure   Docker · Kubernetes · Terraform · GitHub Actions · CI/CD
+Data             DynamoDB · PostgreSQL · Oracle Database
+Foundations      Data Structures · Algorithms · OOP · Operating Systems · Compilers
+Practices        Testing · Debugging · Code Reviews · Agile/Scrum · Documentation
+```
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=marcheluki&amp;hide_border=false&amp;border_radius=15&amp;background=0D1117&amp;border=6C63A8&amp;stroke=8B6FAF&amp;ring=A78BFA&amp;fire=C084FC&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=C4B5FD&amp;sideLabels=C4B5FD&amp;dates=A78BFA"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=marcheluki&amp;hide_border=false&amp;border_radius=15&amp;background=FFFFFF&amp;border=D8B4FE&amp;stroke=E9D5FF&amp;ring=7C3AED&amp;fire=A855F7&amp;currStreakNum=4C1D95&amp;sideNums=4C1D95&amp;currStreakLabel=6D28D9&amp;sideLabels=6D28D9&amp;dates=7C3AED"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=marcheluki&amp;theme=material-palenight&amp;border_radius=15"
+    alt="Marcela's GitHub contribution streak"
+  />
+</picture>
+
+<br>
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcheluki&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=A78BFA&amp;point=FFFFFF&amp;area=true&amp;area_color=6C63A8&amp;border_color=6C63A8&amp;radius=15&amp;custom_title=Contribution%20Activity"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcheluki&amp;bg_color=FFFFFF&amp;color=6D28D9&amp;line=8B5CF6&amp;point=4C1D95&amp;area=true&amp;area_color=D8B4FE&amp;border_color=D8B4FE&amp;radius=15&amp;custom_title=Contribution%20Activity"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marcheluki&amp;theme=tokyo-night&amp;area=true&amp;radius=15&amp;custom_title=Contribution%20Activity"
+    alt="Marcela's recent GitHub contribution activity"
+    width="100%"
+  />
+</picture>
+
 </div>
-<!-- End Footer -->
+
+---
+
+<div align="center">
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/marcela-de-la-rosa/) ·
+[Email](mailto:marceladlrosaa@gmail.com) ·
+[Repositories](https://github.com/marcheluki?tab=repositories)
+
+<br>
+
+<sub>Thanks for visiting ✨</sub>
+
+</div>
