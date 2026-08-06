@@ -89,14 +89,6 @@ Practices        Testing · Debugging · Code Reviews · Agile/Scrum · Document
 
 <div align="center">
 
-### Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/marcela-de-la-rosa/) ·
-[Email](mailto:marceladlrosaa@gmail.com) ·
-[Repositories](https://github.com/marcheluki?tab=repositories)
-
-<br>
-
 <sub>Thanks for visiting ✨</sub>
 
 </div>
