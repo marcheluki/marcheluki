@@ -30,57 +30,6 @@ My experience spans frontend and backend development, cloud infrastructure, data
 
 ---
 
-## Featured projects
-
-### ☁️ [Task Flow — Cloud-Native Project Management Platform](https://github.com/adpadillar/oci-telegram-bot)
-
-A task and sprint management platform combining a React interface, Spring Boot backend, Telegram integration, and Oracle Autonomous Database.
-
-- Co-led a five-person Oracle-sponsored team as Project Manager.
-- Defined 15 functional requirements, user stories, acceptance criteria, and a six-stage delivery plan.
-- Contributed to Docker, Kubernetes, Terraform, CI/CD, structured logging, and automated testing.
-- The project included Playwright end-to-end testing and OWASP ZAP security testing.
-
-`React` `Java` `Spring Boot` `REST APIs` `Docker` `Kubernetes` `Terraform` `Oracle Cloud`
-
----
-
-### 🧩 [LLM Docker Microservices](https://github.com/Pablo389/llm-docker-microservices)
-
-A containerized application separating authentication, LLM chat, frontend, and database functionality into independently deployable services.
-
-- Implemented JWT authentication, bcrypt password hashing, and protected endpoints.
-- Used separate PostgreSQL databases and environment-based secrets.
-- Built and ran the complete system through Docker Compose.
-
-`Python` `FastAPI` `React` `PostgreSQL` `JWT` `Docker Compose`
-
----
-
-### ⚙️ [Triton GPU Kernel Validator](https://github.com/adpadillar/triton-pipeline)
-
-A compiler front end for validating a restricted Triton/Python GPU-kernel language.
-
-- Implemented a Flex lexical analyzer and Bison LALR(1) parser.
-- Added symbol-table management and line-aware lexical and syntax diagnostics.
-- Built GCC/Make/Bash regression testing for 10 valid and 10 intentionally malformed kernels.
-
-`C` `Flex` `Bison` `Bash` `GNU Make` `Compiler Design`
-
----
-
-### 🎮 [Multi-Agent Simulation Platform](https://github.com/v3gaaa/multiagentes)
-
-A real-time simulation integrating drones, fixed cameras, security agents, object detection, and client-server communication.
-
-- Connected Python event processing with Unity and C# components.
-- Optimized state machines, object pooling, pathing, and message handling.
-- Sustained 30 FPS at 1080p while reducing CPU utilization by approximately 25%.
-
-`Unity` `C#` `Python` `YOLO` `Client–Server Systems`
-
----
-
 ## Technical toolbox
 
 ```text
